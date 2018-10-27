@@ -1,1 +1,1 @@
-# halite_2018
+Halite entroy 2018
