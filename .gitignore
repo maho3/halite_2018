@@ -1,3 +1,5 @@
 replays/
 
 *.log
+
+.ipynb_checkpoints/
